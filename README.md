@@ -1,5 +1,2 @@
-# Nightguide
-Guiding people to the nature when it's getting dark, so you can explore the nature on a different kind of experience and you can discover
-wild animals without being attaked by them, they are more scared of humans then humans are scared of them. So we can invest in nature
-and protect the world against the warming up.
-
+# Digigcoin
+Create One coin named Digicoin, it's a coin that has 1 value so the rest of the coins in the world get the same value and then everybody and every country has the same value, everyone and everybody is the same and earn the same, what do you think about the idea?
